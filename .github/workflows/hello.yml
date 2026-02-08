@@ -15,8 +15,9 @@ jobs:
     
       - name: Now it is
         run: |
-          ls
-    
+          date
+
       - name: Directory content
         run: |
-          date
+          ls
+    
